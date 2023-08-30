@@ -21,12 +21,12 @@
 
 for Ubuntu 18:
 ```
-bash <( curl -sL https://raw.githubusercontent.com/NewMNSavings/Masternode-Setup-Script/main/masternodeinstall.sh)
+bash <( curl -sL https://raw.githubusercontent.com/NewMNSavings/Masternode-Setup-Script/main/masternodeinstall-Ubuntu18.sh)
 ```
 
 for Ubuntu 20:
 ```
-bash <( curl -sL https://raw.githubusercontent.com/NewMNSavings/Masternode-Setup-Script/main/masternodeinstall.sh)
+bash <( curl -sL https://raw.githubusercontent.com/NewMNSavings/Masternode-Setup-Script/main/masternodeinstall-Ubuntu20.sh)
 ```
 2. follow the prompts closely and don't mess it up!
 3. Move to Part 3
